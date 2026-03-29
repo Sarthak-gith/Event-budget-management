@@ -86,8 +86,4 @@ script.js
 * AI-based invoice parsing
 * Asset tracking system
 
----
-
-## 👨‍💻 Author
-
-Your Name
+--
